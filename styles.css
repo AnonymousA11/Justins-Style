@@ -1,0 +1,116 @@
+body{
+  background-color:beige;
+  
+body h1{
+  text-shadow:2px 2px 2px ;
+}
+  
+  
+  }
+
+h1{
+  border-style:none;
+  
+
+}
+
+
+.font-panel h2{
+  text-decoration:underline;
+}
+
+
+.container{
+  border-style:solid;
+  margin:20px;
+}
+
+.color-container div{
+  display:inline-block;
+  justify-content:center;
+  align-items:center;
+  margin:10px;
+  width:30%;
+  height:100px;
+  border-style:solid;
+  border-radius:50%;
+}  
+
+.color-container div p {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  color:white;   
+  
+}
+
+color-container div p {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  color:white;   
+  
+}
+
+
+
+
+.color-container-beige{
+  background-color: #efd9ca;
+ 
+  
+  
+   
+}
+
+.color-container-atomic{
+  background-color: #ec8454;
+}
+
+.color-container-watercourse{
+  background-color:#0c6c54;
+}
+
+.color-container-sahara{
+    background-color: #bfa618;
+}
+
+.font-panel-abril-fatface{
+  font-family:Abril Fatface;
+}
+
+
+.github-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.github-button:hover {
+  background-color: #21130d;
+}
+
+
+.codecademy-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.codecademy-button:hover {
+  background-color:#063970;
+}
